@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import { Container, Navbar, Nav, NavDropdown, Image, Row, Col, Card, Button } from 'react-bootstrap';
 
+//
+
 const Navig = <><Navbar bg="danger" variant="dark" fixed="top" expand="lg">
   <Container>
     <Navbar.Brand href="home">Holden's Ryefield</Navbar.Brand>
