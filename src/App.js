@@ -31,8 +31,8 @@ const data = [
     something and millions of people viewing it and making phony reactions. Online bastards, or just bastards. ",
     "https://cdn.webtekno.com/media/cache/content_detail_v2/article/75345/twitter-instagram-hesabi-acti-1567611915.jpg"),
 
-  new PostContent("12.23.2021", "Out of Pencies", "I'm in lousy shape, for chris's sake. I swear to God I'm a terrible madman, \
-    if you know what I mean. Now that I’m flunked from #PenceyPrep might as well give old Phoebe a buzz. What a kid.",
+  new PostContent("12.23.2021", "Out of breath", "I'm in lousy shape, for chris's sake. I swear to God I'm a terrible madman, \
+    if you know what I mean, when I got to Spencer's. Now that I’m flunked from #PenceyPrep might as well give old Phoebe a buzz, or not. What a kid.",
     "https://cdn.quotesgram.com/img/26/69/1663937446-holden-1.png"),
   new PostContent("12.23.2021", "Out of Pencies",
     "I have this boy named Stradlater over here on #PenceyPrep. What a corny phony he is. He is the most conceited phony\
